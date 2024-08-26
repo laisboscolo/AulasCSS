@@ -1,0 +1,25 @@
+/* alterando cor por nome */
+.nome{
+    color: darkviolet;
+    background-color: #1fedbd;
+}
+/* alterando cor por hexadecimal */
+.hexadecimal{
+    color:#9d30fc ;
+    background-color: #5cecff;
+}
+/* alterando cor por rgba */
+.rgba{
+    color: rgba(157, 48, 252, 1);
+    background-color:rgba(41, 248, 255, 1); 
+}
+/* Alterando a segunda página */
+h1{
+    background-color: darkseagreen;
+}
+.div-background{
+    background-image: url(lulachuu.webp);
+    height:500px;
+    width:800px;
+}
+
