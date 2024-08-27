@@ -1,0 +1,12 @@
+.posicao{
+    width: 200px;
+    height: 200px;
+    background-color: darkviolet;
+    border-bottom: 3px dashed aquamarine;
+}
+
+.static{
+    border-right: 5px solid yellow;
+    position: static;
+   
+}
