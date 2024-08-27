@@ -1,0 +1,19 @@
+body{
+    margin: 90;
+    margin: 100;
+}
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    background-color: darkseagreen;
+    /* espaçamento depois do conteudo */
+    padding: 30px 30px;
+    /* linha que fica apos o padding */
+    border: 5px solid rgb(30, 102, 210);
+    border-left: 15px dotted rgb(238, 255, 6);
+    border-right-style: double;
+    /* o radius arredonda as bordas */
+    border-radius: 10px;
+    /* adicionando espaço */
+    margin: 50px 50px;
+}
