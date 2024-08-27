@@ -1,0 +1,16 @@
+.position{
+    width: 100px;
+    height: 50px;
+    background-color: darkorchid;
+    border-bottom: 4px solid blue;
+}
+
+.static{
+    position: relative;
+}
+.relative{
+    position: relative;
+    background-color: darkseagreen;
+    top: 100px;
+    left: 20px;
+}
