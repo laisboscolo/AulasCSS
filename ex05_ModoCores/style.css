@@ -1,25 +1,30 @@
 /* alterando cor por nome */
 .nome{
-    color: darkviolet;
-    background-color: #1fedbd;
+    color:greenyellow;
+    background-color:blue; 
 }
+
 /* alterando cor por hexadecimal */
 .hexadecimal{
-    color:#9d30fc ;
-    background-color: #5cecff;
+    color:#ca03fc;
+    background-color:#580823;
 }
-/* alterando cor por rgba */
-.rgba{
-    color: rgba(157, 48, 252, 1);
-    background-color:rgba(41, 248, 255, 1); 
+.RGBA{
+    color:rgba(218, 179, 255, 1);
+    background-color:rgba(3, 13, 79, 1);
 }
 /* Alterando a segunda página */
-h1{
-    background-color: darkseagreen;
+.titulo-background{
+    background-color:rgb(191, 43, 43);
+    color:rgb(255, 255, 255);
+    font-size: 30px;
 }
+
 .div-background{
     background-image: url(lulachuu.webp);
-    height:500px;
-    width:800px;
+    height: 800px;
+    width: 1600px;
+
 }
+
 
